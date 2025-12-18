@@ -11,7 +11,7 @@ It focuses on *ETL processes, SQL transformations, and analytical querying* for 
 - Clean and standardize data
 - Transform data for analytical use
 - Enable fast reporting and business intelligence
-- Implement SQL-based ETL pipelines
+- Implement SQL-based ETL 
 
 
 ##  Architecture
